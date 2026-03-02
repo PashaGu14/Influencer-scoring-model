@@ -33,3 +33,20 @@ Weighted scoring formula applied to generate final influence rankings.
 Built actor relationship graphs
 Calculated centrality scores
 Identified highly connected narrative nodes
+
+### Confidentiality & Data Usage
+
+This project was developed as part of a company-sponsored engagement. Due to confidentiality agreements, the original datasets used in development cannot be shared publicly.
+
+#### The repository therefore includes:
+
+- The full analytical framework
+
+- Scoring logic and model structure
+
+- Visualization and export functionality
+
+- Sample or synthetic data formats where applicable
+
+The scoring model is data-agnostic and can be applied to any organization’s structured media or social dataset, provided the required schema is met.
+All proprietary data has been excluded in accordance with confidentiality obligations.
